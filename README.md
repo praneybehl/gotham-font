@@ -3,6 +3,6 @@
 Download and import gotham.scss into your project for easy use of this great font.
 Use `.gotham-light`, `.gotham-medium`, `.gotham-book` or `.gotham-bold` to set the font family.
 
-## Here's how it looks:
+## Here's how it looks like:
 
-[logo]: https://raw.githubusercontent.com/cristacheda/gotham-font/master/demo.png "Demo"
+![alt text](https://raw.githubusercontent.com/cristacheda/gotham-font/master/demo.png)
